@@ -1,1 +1,1 @@
-# pea-pod-chat-express-server
+# Express Server for socket-io backend in PeaPodChat

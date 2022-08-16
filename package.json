@@ -1,0 +1,25 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "express server for pea pod chat socket connection",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SallyB23/pea-pod-chat-express-server.git"
+  },
+  "author": "Sally Bentley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SallyB23/pea-pod-chat-express-server/issues"
+  },
+  "homepage": "https://github.com/SallyB23/pea-pod-chat-express-server#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^4.8.1",
+    "nodemon": "^2.0.19",
+    "socket.io": "^4.5.1"
+  }
+}
