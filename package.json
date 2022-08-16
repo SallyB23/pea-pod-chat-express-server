@@ -4,7 +4,7 @@
   "description": "express server for pea pod chat socket connection",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
